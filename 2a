@@ -1,0 +1,12 @@
+## Structure of a C program
+
+- Every C program has a `main()`` function that has a return type of `int`` that is
+either `return 0` or `return 1`.
+
+
+## Working with strings in C
+- Strings are array of characters in C that can should be terminated by a ``/0``
+when it is read else C does not know how to read a string. So C relies on us to
+keep track of our arrays.
+- Single quotes are used for individual characters while double quotes are used
+for strings.
